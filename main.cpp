@@ -7,9 +7,8 @@ int main() {
   std::cout << "Hello world";
   Game game;
 
-  std::cout << game.to_string();
-
-  auto& board = game.get_board();
+  game.init();
+  game.run();
 
   return 0;
 }

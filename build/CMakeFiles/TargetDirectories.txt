@@ -1,0 +1,3 @@
+/home/sindre/Documents/Prog/CPP/terminal-snake/build/CMakeFiles/app.dir
+/home/sindre/Documents/Prog/CPP/terminal-snake/build/CMakeFiles/edit_cache.dir
+/home/sindre/Documents/Prog/CPP/terminal-snake/build/CMakeFiles/rebuild_cache.dir
