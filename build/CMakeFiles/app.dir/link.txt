@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++1y -Wall -Wextra -O3 -DNDEBUG CMakeFiles/app.dir/game.cpp.o CMakeFiles/app.dir/main.cpp.o -o app 
